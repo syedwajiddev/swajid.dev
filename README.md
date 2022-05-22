@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wajid Hussain</h1>
-<h3 align="center">Front-End Developer | Flutter | Video Editor | Public Speaker</h3>
+<h3 align="center">Front-End Developer | Video Editor | UI UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajid1102&label=Profile%20views&color=0e75b6&style=flat" alt="wajid1102" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Freelancing Platforms**
 
-- 🌱 I’m currently learning **Flutter, Web Development, JavaScript**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/syed-wajid-hussain-118431235/](https://www.linkedin.com/in/syed-wajid-hussain-118431235/)
 
-- 💬 Ask me about **Flutter, Front-End Development, Business Ideas**
+- 💬 Ask me about **Flutter, Front-End Development, Business Ideas, Python, Adobe Tools**
 
 - 📫 How to reach me **shahw4642@gmail.com**
 
